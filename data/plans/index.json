@@ -1,0 +1,14 @@
+{
+ "plans": [
+  {
+   "id": "default",
+   "name": "三室两厅两卫",
+   "nameEn": "3BR · 2LR · 2BA"
+  },
+  {
+   "id": "studio",
+   "name": "一室一厅 · 示例",
+   "nameEn": "Studio · Sample"
+  }
+ ]
+}
